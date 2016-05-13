@@ -12,14 +12,16 @@ font-size: 100px;
 color:lightyellow;
 
 }
-.icecream{
+.icecream {
   width:400px;
   height:300px;
+
 }
 p{
   font-family: Georgia;
   color: #7212a8;
   text-align:justify;
+  margin-top: 20px;
 }
 
 ul{
@@ -41,4 +43,16 @@ h2{
 h4{
 font-family:Helvetica;
 color: #7212a8;
+}
+.call-us{
+  height: 100px;
+  background: #009999;
+  color: white;
+  font-family: Georgia;
+  font-size: 20px;
+  text-align: center;
+
+}
+body{
+  background: lightyellow;
 }
