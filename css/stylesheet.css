@@ -1,0 +1,44 @@
+.header{
+  height: 300px;
+  background-image:linear-gradient(firebrick, transparent 90%),
+  url("../img/ice-cream1.jpg");
+  background-size: cover;
+
+}
+
+span{
+font-family: Georgia;
+font-size: 100px;
+color:lightyellow;
+
+}
+.icecream{
+  width:400px;
+  height:300px;
+}
+p{
+  font-family: Georgia;
+  color: #7212a8;
+  text-align:justify;
+}
+
+ul{
+  font-family: Georgia;
+  color: #7212a8;
+}
+ol{
+  font-family: Georgia;
+  color: #7212a8;
+}
+h2{
+  font-family: Georgia;
+  color: #ff00ff;
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+h4{
+font-family:Helvetica;
+color: #7212a8;
+}
