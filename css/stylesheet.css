@@ -6,6 +6,11 @@
 
 }
 
+
+.container{
+  width:1200px;
+  margin:0 auto;
+}
 span{
 font-family: Georgia;
 font-size: 100px;
@@ -15,6 +20,7 @@ color:lightyellow;
 .icecream {
   width:400px;
   height:300px;
+  
 
 }
 p{
